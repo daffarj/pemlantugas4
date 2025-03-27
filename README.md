@@ -164,3 +164,9 @@ Looping while digunakan untuk menu program dan memberikan user pilihan untuk mem
     }
 ```
 ## 4. Program Berjalan
+### Transaksi Top Up
+![gambar1](https://github.com/daffarj/pemlantugas4/blob/main/public/Screenshot%202025-03-27%20223508.png?raw=true)
+### Transaksi Pembelian dan juga operasi perhitungan Cashback sesuai jenis akun dan juga ketika saldo tidak cukup
+![gambar2](https://github.com/daffarj/pemlantugas4/blob/main/public/Screenshot%202025-03-27%20223739.png?raw=true)
+### Apabila salah pin 3 kali maka akun terblokir
+![gambar3](https://github.com/daffarj/pemlantugas4/blob/main/public/Screenshot%202025-03-27%20223902.png?raw=true)
